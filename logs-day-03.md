@@ -22,3 +22,11 @@ full_name = f"{first_name} {last_name}"
 
 print(full_name)
 The Output would be: John Doe
+
+I learned that f-strings can make my code easier to read because I can put variables directly inside the string instead of using multiple + operators.
+
+What I Learned 
+The main difference is that string concatenation uses the + operator to join strings 
+together, while string interpolation uses f-strings to insert variables directly into a string. Both are useful 
+when working with text in Python, but I find f-strings easier
+to read when I need to include multiple variables in a sentence.
